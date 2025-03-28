@@ -53,7 +53,8 @@ src/
 📡 API Endpoints
 
 🔹 Authentication
-Method	Endpoint	Description
+Method	 Endpoint	Description
+
 POST	/api/auth/register	Register a new user
 
 POST	/api/auth/login	Login and get JWT token
