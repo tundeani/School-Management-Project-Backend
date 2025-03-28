@@ -3,11 +3,17 @@
 This is the backend of the School Management System, built using Node.js, Express.js, JWT Authentication, and PostgreSQL. It provides secure REST APIs for handling user authentication, role-based access control, student records, attendance tracking, assignments, and more.
 
 🚀 Features
+
 ✅ User Authentication & Authorization (JWT)
+
 ✅ Role-Based Access Control (Admin, Teacher, Student, Parent)
+
 ✅ Secure RESTful APIs
+
 ✅ PostgreSQL Database with Sequelize ORM
+
 ✅ Student & Course Management
+
 ✅ Attendance & Assignments Handling
 
 🛠 Tech Stack
