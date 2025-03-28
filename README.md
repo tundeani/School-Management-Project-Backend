@@ -30,17 +30,25 @@ API Testing: Postman
 📂 Project Structure
 
 src/
+
 │── config/              # Database and app configurations
+
 │── controllers/         # API request controllers
+
 │── middleware/          # Authentication & validation middleware
+
 │── models/              # Database models (Sequelize)
+
 │── routes/              # API routes
+
 │── services/            # Business logic services
+
 │── utils/               # Utility functions
+
 │── app.js               # Express app setup
+
 │── server.js            # Server entry point
-│── Dockerfile           # Docker setup
-│── .env.example         # Environment variables template
+
 
 📡 API Endpoints
 
