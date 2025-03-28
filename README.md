@@ -55,34 +55,59 @@ src/
 🔹 Authentication
 Method	Endpoint	Description
 POST	/api/auth/register	Register a new user
+
 POST	/api/auth/login	Login and get JWT token
+
 GET	/api/auth/profile	Get logged-in user profile
 
+
 🔹 Users (Admin Only)
+
 Method	Endpoint	Description
+
 GET	/api/users	Get all users
+
 GET	/api/users/:id	Get user by ID
+
 DELETE	/api/users/:id	Delete user
 
+
 🔹 Courses & Assignments
+
 Method	Endpoint	Description
+
 GET	/api/courses	Get all courses
+
 POST	/api/courses	Create a new course (Admin/Teacher)
+
 GET	/api/assignments	Get assignments
 
+
 📌 Roadmap
+
 🔹 Implement WebSocket for real-time notifications
+
 🔹 Add AI-based student performance analytics
+
 🔹 Build GraphQL API for flexible querying
 
 
+
 🤝 Contributing
+
 Want to contribute? Feel free to open an issue or submit a pull request!
 
+
 📄 License
+
 This project is licensed under the MIT License.
 
 📞 Contact
+
 For inquiries or collaborations, reach out:
+
 📧 Email: info@emeraldtechsavvy.ng
-🌐 Website: www.emeraldtechsavvy.ng www.emeralddigitalforge.com.ng
+
+🌐 Website: www.emeraldtechsavvy.ng
+
+ www.emeralddigitalforge.com.ng
