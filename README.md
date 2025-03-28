@@ -10,7 +10,7 @@ This is the backend of the School Management System, built using Node.js, Expres
 
 ✅ Secure RESTful APIs
 
-✅ PostgreSQL Database with Sequelize ORM
+✅ PostgreSQL Database
 
 ✅ Student & Course Management
 
